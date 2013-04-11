@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../appFramework-jQMobi_Doc_CH/appFramework-jQMobi_Doc_CH.iml" filepath="$PROJECT_DIR$/../appFramework-jQMobi_Doc_CH/appFramework-jQMobi_Doc_CH.iml" />
       <module fileurl="file://$PROJECT_DIR$/jQMobi-theme.iml" filepath="$PROJECT_DIR$/jQMobi-theme.iml" />
     </modules>
   </component>
