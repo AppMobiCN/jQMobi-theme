@@ -2,26 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e51ad06-8d95-49c0-ba0b-9718787c99a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jq.mobi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jq.mobi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/images/badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/images/splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/build.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/external.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/flip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/styles/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/defer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/css/jq.actionsheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.actionsheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.alphatable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.css3animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/js/jq.desktopBrowsers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.desktopBrowsers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.drawer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.fx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.passwordBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/css/jq.popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/css/jq.scroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/css/jq.selectBox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.selectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.swipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/js/jq.template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.touchEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.touchLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/themes/jq.ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/jq.ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/jq.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/src/jq.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/jq.ui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/js/jq.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/jq.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/jq.web.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kitchensink/json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/pop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/slideDown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/transitions/slideUp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jqmobi-theme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365644487548" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365645194319" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +79,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -70,13 +114,13 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="jqmobi-theme" />
+    <favorites_list name="jQMobi-theme" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -120,20 +164,30 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jqmobi-theme" />
+              <option name="myItemId" value="jQMobi-theme" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQMobi-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jQMobi-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +195,6 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -254,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
