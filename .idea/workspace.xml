@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e51ad06-8d95-49c0-ba0b-9718787c99a1" name="Default" comment="edit ios-theme license.txt">
+    <list default="true" id="6e51ad06-8d95-49c0-ba0b-9718787c99a1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios-theme/license.txt" afterPath="$PROJECT_DIR$/ios-theme/license.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jqmobi-theme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365646798349" ignored="false" />
-    <file path="/license.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365646769329" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365646803732" ignored="false" />
+    <file path="/license.txt" changelist="6e51ad06-8d95-49c0-ba0b-9718787c99a1" time="1365647042096" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <file leaf-file-name="license.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios-theme/license.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="80" selection-end="91" vertical-scroll-proportion="0.10149942">
+            <state line="2" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.05074971">
               <folding />
             </state>
           </provider>
@@ -106,6 +106,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -359,12 +360,16 @@
       <created>1365646001316</created>
       <updated>1365646001316</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edit ios-theme license.txt">
+      <created>1365646809677</created>
+      <updated>1365646809677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -385,7 +390,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -472,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ios-theme/license.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="80" selection-end="91" vertical-scroll-proportion="0.10149942">
+        <state line="2" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.05074971">
           <folding />
         </state>
       </provider>
